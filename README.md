@@ -3,4 +3,5 @@ This is just some single-header libraries required by shard but I don't want to 
 
 # Included
 > stb_image: https://github.com/nothings/stb/blob/master/stb_image.h<br>
-> tinyobjloader: https://github.com/tinyobjloader/tinyobjloader
+> tinyobjloader: https://github.com/tinyobjloader/tinyobjloader<br>
+> miniaudio: https://github.com/mackron/miniaudio
